@@ -1,2 +1,1 @@
-#Amod 
 Developed a secure backend-driven Daily Notes application using Python and Django. Implemented JWT-based authentication, role-based access control, and full CRUD operations for user-owned notes. Designed and optimized relational database models using PostgreSQL and Django ORM. Built RESTful APIs following best practices, ensuring secure data handling and scalable architecture.
