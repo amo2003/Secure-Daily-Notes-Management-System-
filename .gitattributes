@@ -1,0 +1,9 @@
+# Force backend to count as Python
+backend/** linguist-language=Python
+
+# Mark frontend as JavaScript
+frontend/** linguist-language=JavaScript
+
+# Ignore build & dependency folders
+frontend/node_modules/** linguist-vendored
+frontend/build/** linguist-vendored
